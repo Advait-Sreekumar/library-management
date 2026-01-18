@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com",
+            "issuedBook":"1",
+            "issuedDate":"01/07/2021",
+            "returnDate":"21/07/2021",
+            "subscriptionType":"Basic",
+            "subscriptionDate":"01/10/2021"
+        },
+        {
+            "id": 2,
+            "name": "Bob Smith",
+            "email": "bob.smith@example.com",
+            "issuedBook":"2",
+            "issuedDate":"07/01/2021",
+            "returnDate":"21/02/2021",
+            "subscriptionType":"Premium",
+            "subscriptionDate":"01/12/2022"
+        },
+        {
+            "id": 3,
+            "name": "Charlie Brown",
+            "email": "charlie.brown@example.com",
+            "issuedBook":"1",
+            "issuedDate":"01/07/2021",
+            "returnDate":"02/08/2021",
+            "subscriptionType":"Standard",
+            "subscriptionDate":"05/6/2021"
+        }
+    ]
+}
