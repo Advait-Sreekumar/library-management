@@ -16,6 +16,12 @@
         "name":"HIMYM",
         "price":"300",
         "author":"Yam"
+    },
+    {
+        "id":"4",
+        "name":"DN",
+        "price":"700",
+        "author":"Yamamoto"
     }
 ]
 }
